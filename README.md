@@ -5,8 +5,8 @@
   <br></br>
 <pre>
     👑 Utils 
-          💫 Graphic • Games        
-    🖥️ Photoshop User
+          🖥️ Graphic • Games        
+    🖌️ Photoshop User
 </pre>
 
   <a href="https://wakatime.com/@e16f8dc4-b56f-49c4-8545-e57b81a03503">
