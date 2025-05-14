@@ -8,10 +8,6 @@
           🖥️ Graphic • Games        
     🖌️ Photoshop User
 </pre>
-
-  <a href="https://wakatime.com/@e16f8dc4-b56f-49c4-8545-e57b81a03503">
-    <img src="https://wakatime.com/badge/user/e16f8dc4-b56f-49c4-8545-e57b81a03503.svg" alt="Total time coded since Sep 24 2023" />
-  </a> 
   <img src="https://komarev.com/ghpvc/?username=wrlq&color=blueviolet&style=for-the-badge" alt="Total views since Apr 18 2020" />
 
 </div>
