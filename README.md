@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://i.imgur.com/yAcsSbC.png" width="25%" align="right" />
+  <img src="https://i.imgur.com/bLI7c5r.png" width="25%" align="right" /> 
   <br></br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Paytone+One&size=40&duration=4000&pause=1000&color=56F769&center=true&vCenter=true&width=435&lines=Graphic+Designer;20+years+old;UX%2FUI+Designer" alt="Typing SVG" /></a>
   <br></br>
 <pre>
     👑 Utils 
-          💫 Music • Games • Code       
-    🖥️ Epitech Student
+          💫 Graphic • Games        
+    🖥️ Photoshop User
 </pre>
 
   <a href="https://wakatime.com/@e16f8dc4-b56f-49c4-8545-e57b81a03503">
