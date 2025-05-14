@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/tKCiXCp.png" width="25%" align="right" /> 
+  <img src="https://i.imgur.com/l1qVXfU.png" width="25%" align="right" /> 
   <br></br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Paytone+One&size=40&duration=4000&pause=1000&color=56F769&center=true&vCenter=true&width=435&lines=Graphic+Designer;20+years+old;UX%2FUI+Designer" alt="Typing SVG" /></a>
   <br></br>
