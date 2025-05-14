@@ -11,3 +11,5 @@
   <img src="https://komarev.com/ghpvc/?username=wrlq&color=blueviolet&style=for-the-badge" alt="Total views since Apr 18 2020" />
 
 </div>
+
+![snake gif](https://github.com/wrlq/wrlq/blob/output/github-snake-dark.svg)
