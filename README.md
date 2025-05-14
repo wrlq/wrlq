@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.imgur.com/yAcsSbC.png" width="25%" align="right" />
+  <br></br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Paytone+One&size=30&pause=400&color=F74949&center=true&random=false&width=435&lines=French+developer;18+years+old;Student+at+Epitech" alt="Typing SVG" width="50%" /> </a>
+  <br></br>
+<pre>
+    👑 Utils 
+          💫 Music • Games • Code       
+    🖥️ Epitech Student
+</pre>
 
-<!--
-**wrlq/wrlq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://wakatime.com/@e16f8dc4-b56f-49c4-8545-e57b81a03503">
+    <img src="https://wakatime.com/badge/user/e16f8dc4-b56f-49c4-8545-e57b81a03503.svg" alt="Total time coded since Sep 24 2023" />
+  </a> 
+  <img src="https://komarev.com/ghpvc/?username=3d3n-pyc" alt="Total views since Apr 18 2024" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
